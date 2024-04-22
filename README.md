@@ -1,4 +1,4 @@
-# Python-Projects
- Python Projects Repository
+# Basic Python Projects
+ These are basic projects written in Python. They use variues modules such as tkinter or sqlite3
 
- This contains all the coding projects related to the AUTOMATED PYTHON COURSE
+# Projects:
